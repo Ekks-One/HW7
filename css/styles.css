@@ -1,0 +1,62 @@
+/* Color Palette
+# - #41431B
+# - #AEB784
+# - #E3DBBB
+# - #F8F3E1
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    font-family: "Roboto", sans-serif;
+    background: #41431B;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header{
+    background: #AEB784;
+}
+
+footer {
+    background: #AEB784;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-ex {
+    background: #E3DBBB;
+}
+
+/* Projects
+------------------------------------*/
+.projects {
+    background: #AEB784;
+}
+
+/* Education
+------------------------------------*/
+.education {
+    background: #F8F3E1;
+}
+
+/* Tech Skills
+------------------------------------*/
+.tech-skills {
+    background: #E3DBBB;
+}
