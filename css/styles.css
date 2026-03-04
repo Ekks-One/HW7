@@ -51,16 +51,10 @@ h2{
 }
 
 .content-wrap {
+    overflow: hidden;
     max-width: 950px;
     margin: 0 auto;
     padding: 50px;
-}
-
-/* added for weird formatting issue*/
-.content-wrap::after {
-  content: "";
-  display: block;
-  clear: both;
 }
 
 .contact-info a {
