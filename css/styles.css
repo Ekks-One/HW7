@@ -51,6 +51,7 @@ h2{
 }
 
 .content-wrap {
+    /* Added Overflow hidden for formatting issue */
     overflow: hidden;
     max-width: 950px;
     margin: 0 auto;
